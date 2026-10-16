@@ -1327,5 +1327,4 @@ if __name__ == "__main__":
 
 
 #Flag | Nom du challenge
-si vous pouvez dumper les chall sur git
 
